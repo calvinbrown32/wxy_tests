@@ -1,1 +1,13 @@
 /.history
+
+
+# Folders
+Data/
+data/
+pluto_batches/
+stormwater_flood_maps/
+
+# File types
+*.pkl
+*.geojson
+*.csv
