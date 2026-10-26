@@ -11,21 +11,21 @@ Please do not us AI for this exercise. We use AI in some contexts, but this is a
 
 1. Please share a link to a code base for a website you have built or substantively contributed to. If it was a collaboration please provide a clear description of your role. 
 
-========================
+------------------------------
 Calvin's Response:
 
 Hello, below is the GitHub link to a Replica data parser I built that quickly turns Replica mobility data into an interactive origin-destination flow map using FlowMapBlue, an open source tool. David Wasserman presented his idea for using Replica data and FlowMapBlue to create an interactive O-D flow viewing tool, and intrigued I went home and started building it! 
-https://github.com/calvinbrown32/Replica_Parser
+- https://github.com/calvinbrown32/Replica_Parser
 
 Link to a demo of the tool and a detailed description of the project:
-https://calvinbrown.pythonanywhere.com
+- https://calvinbrown.pythonanywhere.com
 
 Also, I wanted to share my code base to a fully built and deployed React app I built. The app runs on React,React Leaflet, and a postgres backend and is deployed on a Digital Ocean Droplet. I realized there might be items in the repository that I don't want to share, but I can share a link to the app:
 
-http://174.138.79.56/seating/
-username: cbrown
-password: cbrown
-========================
+- http://174.138.79.56/seating/
+- username: cbrown
+- password: cbrown
+------------------------------
 
 1. In no more than a few paragraphs, please describe how you would approach developing a website for the scenario described below. Feel free to include simple diagrams of the architecture as helpful.  We want to understand how you approach system design in web development, the tools you are familiar with, and how you would approach this problem from start to finish. Feel free to add additional detail on parts where you have strong opinions or experience, including libraries, frameworks, and best practices. Feel free to do research; however, we are most interested on you drawing on your own experience and knowledge, and the specific benefits or challenges your experience would lend in addressing this problem.
 
