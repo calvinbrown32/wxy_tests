@@ -44,6 +44,7 @@ This sounds like a really interesting project. I would start by breaking it down
 I also have experience developing community engagement maps and understand the importance of carefully designing how users create spatial features and associate comments with locations on a map. For example, requiring users to zoom in to an appropriate scale before placing a point or drawing a feature can help ensure that contributions are accurately located. These seemingly small design decisions can make a significant difference in the quality and usability of the data collected.
 
 3. Visual Design and User Experience: Design an intuitive experience that guides users through the entire journey, from accessing the website and creating an account to exploring the map, submitting comments, and returning to saved contributions in later sessions. I'd focus on making the available tools and options easy to understand, with clear visual guidance and help resources accessible throughout the experience.
+   
 ------------------------------
 
 ## B. Geospatial Python Test
@@ -73,4 +74,5 @@ In a brief paragraph please describe any experience you have to date using large
 Calvin's Response:
 
 I now use LLMs for approximately 90% of my code development and refinement. I instruct LLM tools to use libraries and methods that I have been using for nearly a decade, long before LLMs became widespread. This allows me to accelerate development, troubleshoot errors, and refine existing workflows while maintaining code quality, functionality, coherence, and my own understanding of the underlying code and logic.
+
 ------------------------------
